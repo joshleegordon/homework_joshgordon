@@ -1,0 +1,143 @@
+/*
+Project Name: Blank Template
+Client: Your Client
+Author: Your Name
+Developer @You in DTLA
+*/
+
+body {
+  background: #f0efef;
+  font-size: 26px;
+  line-height: 1.4;
+  color: #606161;
+  font-family: 'Open Sans', Helvetica, Arial, sans-serif;
+  font-weight: 300;
+}
+
+#content {
+  font-family: Open Sans;
+  width: 100%;
+}
+
+#home {
+  width: 100%;
+  padding-top: 32px;
+  height: 700px;
+  background-image: url("../images/header_bg.jpg");
+  background-repeat: no-repeat;
+  background-position: center;
+  background-size: cover;
+}
+
+#benefits {
+    padding: 60px 0 80px;
+}
+
+#testimonial {
+  height: 215px;
+  background-image: url("../images/testimonial_bg.jpg");
+  background-repeat: no-repeat;
+  background-position: center;
+  background-size: cover;
+  padding: 70px 0 70px;
+  color: white;
+  font-size: 18px;
+  font-weight: 300;
+  font-style: italic;
+  text-align: center;
+}
+
+#attribution {
+  font-style: normal;
+  font-weight: 600;
+}
+
+#signup {
+  background: #f9e42e;
+  padding: 30px;
+  text-align: center;}
+
+#signup button {
+  background: #033048;
+  color: #fff;
+  font-size: 24px;
+  font-family: 'Open Sans', Helvetica, Arial, sans-serif;
+  border: 0;
+  border-radius: 5px;
+  font-weight: 800;
+  padding: 12px 0;
+  width: 280px;
+}
+
+footer {
+  text-align: center;
+  background: #121212;
+  padding: 65px 0 45px;
+  height: 400px;
+  color: #f9e42e;
+}
+
+h1 {
+  font-size: 48px;
+  font-weight: 800;
+  color: white;
+}
+
+footer h1 {
+  color: #f9e42e;
+}
+
+h2 {
+    color: #033048;
+      font-size: 20px;
+      font-weight: 600;
+      margin: 40px 0 40px 0;
+}
+
+h3 {
+  text-align: center;
+  font-weight: 600;
+  font-size: 24px;
+  color: white;
+  margin-top: 120px;
+  margin-right: 0px;
+  margin-bottom: 90px;
+  margin-left: 0px;
+  }
+
+.button {
+  color: #033048;
+  font-weight: 800;
+  font-size: 14px;
+  display: block;
+  margin: 0 auto;
+  background-color: yellow;
+  border-radius: 5px;
+  width: 280px;
+  padding-top: 12px;
+  padding-bottom: 12px;
+  border: 0;
+}
+
+li {
+  list-style-type: disc;
+  margin: 30px 0 0 80px;
+  line-height: .3;
+}
+
+footer ul {
+  margin-top: 50px;
+}
+
+footer li {
+  margin: 0;
+  display: inline-block;
+  padding: 25px;
+}
+
+#copyright {
+  color: white;
+  font-weight: 600;
+  font-size: 18px;
+  padding-top: 50px;
+}
