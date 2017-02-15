@@ -1,0 +1,19 @@
+body {
+  font-family: sans-serif;
+}
+
+.btn {
+  display: inline;
+  margin: 25px 80px;
+  width: 300px;
+  color: black;
+}
+
+.circle {
+  height: 150px;
+  width: 150px;
+  background-color: black;
+  border-radius: 50%;
+  margin: 25px auto;
+  transition: background 500ms;
+}
